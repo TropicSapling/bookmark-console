@@ -1,1 +1,2 @@
-javascript:document.body.innerHtml+='<div id=\'iConsole\'></div>';
+javascript:
+document.body.innerHtml += '<div id=\'iConsole\'></div>';
